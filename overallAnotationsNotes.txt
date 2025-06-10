@@ -1,0 +1,127 @@
+---TOBY---
+00:19 start
+00:31 loss
+00:34 loss, dealer blackjack
+00:42 win
+00:55 loss
+01:01 loss
+01:07 loss
+01:21 loss, dealer blackjack
+01:26 win, blackjack
+01:40 push
+01:54 loss
+02:05 win
+02:11 win
+02:24 loss
+02:31 win
+02:44 loss
+02:57 win
+03:01 win, blackjack
+03:08 loss, bust
+03:17 win
+03:27 switch
+03:51 win
+03:59 win
+04:07 loss
+04:14 loss, bust
+04:20 loss, bust
+04:26 win, double down
+04:36 win
+04:47 win
+04:55 win
+05:04 win
+05:12 loss, dealer blackjack
+05:20 win
+05:26 loss
+05:40 win
+05:48 loss, dealer blackjack
+05:56 push
+06:07 win
+06:13 win
+06:21 push
+06:26 loss, bust
+06:37 win
+
+Notes:
+Cannot determine balance checks due to eye tracking miscalibration
+Fake record: 8-10-1
+Real record: 12-7-2
+
+---AIDAN--- 
+00:28 chose blackjack
+00:45 loss, bust
+00:54 loss
+01:11 win
+01:38 loss
+01:46 win
+01:59 loss, bust
+02:04 loss
+02:20 win
+02:29 loss, bust
+02:42 win
+02:53 win, blackjack
+03:23 win, split
+03:49 switch
+04:13 loss
+04:19 win
+04:32 win
+04:47 loss
+05:11 loss
+05:22 loss, money gone
+
+Notes:
+9 balance checks on fake, most often after loss and look at audience after each win -2.
+12 balance checks on real money, often double checking balance after each hand, less gaze of audience
+Fake record: 6-6
+Real record: 2-4
+
+---KAI--- 11 balance checks after every bout of betting
+00:26 preamble
+--low 16 row, plinko
+00:48 ball 1.1x
+00:54 ball 1.1x
+00:59 ball 1.1x
+01:02 ball 1.4x
+01:07 ball 1.1x
+--medium 16 row, plinko
+01:17 ball 5x
+01:22 ball 0.5x
+01:28 ball 0.5x
+01:32 ball 0.3x
+01:40 3-4 balls <1x
+01:48 6-7 balls <1.5x
+01:52 ball 0.5x
+02:00 8-9 balls <1.5x
+--high 10 row, plinko
+02:08 ball 0.3x
+--high 12 row, plinko
+02:18 ball 0.2x
+02:55 spam balls <2x
+03:03 ball within spam hit 24x
+--high 15 row, plinko
+03:34 switch
+--start blackjack 03:59
+04:10 loss
+04:29 push
+04:36 win
+04:42 loss
+04:53 loss
+05:00 loss
+05:18 loss
+05:23 win
+05:29 loss, dealer blackjack
+05:35 loss
+05:41 loss
+05:48 win
+06:06 win, 21
+06:12 win
+06:17 win
+06:26 push
+06:26 win
+06:49 push
+06:57 win
+07:04 win
+07:07 stop
+12 balance checks 5 after loss and 6 after win and 1 after push
+Fake record: 7-9
+Real record: 9-8-3

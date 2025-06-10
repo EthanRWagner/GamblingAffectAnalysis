@@ -1,4 +1,4 @@
----TOBY---
+---P1---
 00:19 start
 00:31 loss
 00:34 loss, dealer blackjack
@@ -47,7 +47,7 @@ Cannot determine balance checks due to eye tracking miscalibration
 Fake record: 8-10-1
 Real record: 12-7-2
 
----AIDAN--- 
+---P2--- 
 00:28 chose blackjack
 00:45 loss, bust
 00:54 loss
@@ -75,7 +75,7 @@ Notes:
 Fake record: 6-6
 Real record: 2-4
 
----KAI--- 11 balance checks after every bout of betting
+---P3--- 
 00:26 preamble
 --low 16 row, plinko
 00:48 ball 1.1x
@@ -122,6 +122,9 @@ Real record: 2-4
 06:57 win
 07:04 win
 07:07 stop
+
+Notes:
+11 balance checks after every bout of betting
 12 balance checks 5 after loss and 6 after win and 1 after push
 Fake record: 7-9
 Real record: 9-8-3

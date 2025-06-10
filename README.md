@@ -2,6 +2,8 @@
 
 [Data Accessible Here](https://drive.google.com/drive/folders/1RcegESj-_UpARv1KQdkfohvcj0Cf5p3s?usp=drive_link)
 
+To properly run the Google Colab notebook, need to mount Google Drive and change appropriate path information.
+
 This project utilized the Emotiv Insight 5-channel EEG and Pupil Core Eye Tracking Glasses to 
 analyze the difference in affect while participants gamble online with fake and real money. 
 This dataset consists of 3 males, ages 20-25 years old.
